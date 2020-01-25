@@ -9,6 +9,19 @@
     <version>1.0-SNAPSHOT</version>
 
     <dependencies>
+        <!-- jsp-2.3 -->
+        <dependency>
+            <groupId>io.openliberty.features</groupId>
+            <artifactId>jsp-2.3</artifactId>
+            <version>19.0.0.12</version>
+        </dependency>
+
+        <!-- servlet-4.0 -->
+        <dependency>
+            <groupId>io.openliberty.features</groupId>
+            <artifactId>servlet-4.0</artifactId>
+            <version>19.0.0.12</version>
+        </dependency>
 
     </dependencies>
 
